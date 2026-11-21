@@ -1,0 +1,6 @@
+========== RECIPE BOOK REPORT ==========
+Total Recipes: 3
+Vegetarian Recipes: 2
+Nonvegetarian Recipes: 1
+Favourite Recipes: 1
+========================================
